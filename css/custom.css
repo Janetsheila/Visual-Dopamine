@@ -1,0 +1,28 @@
+.carousel-hr,.footer-hr{
+    background-color: white;
+}
+.buttons{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.quick{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+form{
+    background-color: gray;
+    padding: 15px;
+
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 10px 0;
+}
+.body1{
+    background-image: image url(images/bg google1);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
